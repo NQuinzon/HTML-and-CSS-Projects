@@ -1,0 +1,13 @@
+html {
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+body {
+    width: 60%;
+    margin: 0px auto;
+    border: 10px;
+    border-color: #5F9EA0;
+    border-radius: 1px;
+}
